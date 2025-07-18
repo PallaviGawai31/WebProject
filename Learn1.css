@@ -1,0 +1,42 @@
+ body {
+             font-family: 'Arial Narrow', Arial, sans-serif;
+             line height 3px;; 
+             margin:0;
+             padding:0;
+        }
+        header{
+            text-align: center;
+            background-color: #f7bc64;
+            padding:10px;
+        }
+        section{
+            margin:0px;
+            padding:15px;
+            font-size:large;
+            background-color:#f8c9ec;
+            border-radius:0px;
+            color:brown;
+
+        }
+        img{
+            width: 15%;
+            max-width:450px;
+            height: max-content;
+            display: block;
+            margin-left: auto;
+            margin-right: 0;
+            border-radius:10px;
+            backdrop-filter: blur(5px);
+
+        }
+        ul, ol {
+            padding-right:40px;
+            
+        }
+        footer{
+            text-align: center;
+            background-color:#f7bc64;
+            color:black;
+            padding: 10px;
+            font-size: medium;
+        }
